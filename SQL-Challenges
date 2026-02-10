@@ -1,0 +1,15 @@
+## 📋 SQL Analytics Queries
+
+| # | Query Description | Business Value |
+|---|------------------|---------------|
+| 1 | Retrieve all successful bookings | Track completed rides revenue |
+| 2 | Average ride distance per vehicle type | Vehicle utilization analysis |
+| 3 | Total cancelled rides by customers | Customer reliability metrics |
+| 4 | Top 5 customers by ride count | High-value customer identification |
+| 5 | Driver cancellations (personal + car issues) | Driver performance monitoring |
+| 6 | Max/Min driver ratings for Prime Sedan | Premium service quality check |
+| 7 | UPI payment rides | Digital payment trend analysis |
+| 8 | Average customer rating per vehicle type | Service satisfaction by category |
+| 9 | Total booking value of successful rides | Revenue dashboard |
+| 10| Incomplete rides with reasons | Operations bottleneck analysis |
+
